@@ -1,0 +1,11 @@
+Onekey_clock_SEGmatrix 01
+1、数码管显示时间，点阵屏显示日期
+
+Onekey_clock_SEGmatrix 02
+1、可以通过蓝牙(蓝牙名称 BT18)设置时间和日期，格式 setTime=2022120123051505@
+
+Onekey_clock_SEGmatrix 03
+1、随着光照强度变化，点阵屏亮度改变，数码管还有点问题，亮度没改成功，定时器使用冲突
+
+Onekey_clock_SEGmatrix 04
+1、点亮4位小数码管的前后两个半圈作为分隔，每到60秒就更新一次温度
